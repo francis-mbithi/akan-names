@@ -61,7 +61,7 @@ h1{
 }
 
 #result{
-  float: right;
+  float: center;
   margin-top: 10px;
   color: #426e58;
   font-size: 28px;
