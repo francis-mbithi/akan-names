@@ -1,5 +1,7 @@
 body{
-  background-color: #c8dad3;
+  background-color: #82c9ae;
+  
+
 }
 h1{
   color: #ffffff;
@@ -11,7 +13,7 @@ h1{
   padding: 0;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: #626f92;
+  background-image: #696f80;
   box-shadow: 1px 0px 2px #ffffff;
 }
 
@@ -28,13 +30,14 @@ h1{
   font-family: monospace;
   font-weight: lighter;
   font-size: 25px;
-  color: #6150c1;
+  color: #53866c;
 }
 .p-text{
   margin: 30px 30px 30px 10px;
-  color: #ffffff;
+  color: #548b82;
   font-size: 20px;
-  font-family: 'Khula', sans-serif;
+  font-family: 'Khula', fantasy;
+  float: left;
 }
 .genders{
   margin-left: 50px;
