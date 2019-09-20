@@ -1,2 +1,0 @@
-#akan-names
-#akan-names
