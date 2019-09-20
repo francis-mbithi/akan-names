@@ -36,7 +36,9 @@ h4{
   color: #53866c;
 }
 .p-text{
-  margin: 30px 30px 30px 10px;
+  text-align: center;
+  margin: 20px;
+  padding: 10px;
   color: #548b82;
   font-size: 20px;
   font-family: 'Khula', fantasy;
