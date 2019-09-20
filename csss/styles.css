@@ -40,7 +40,7 @@ h4{
   margin: 20px;
   padding: 10px;
   color: #548b82;
-  font-size: 20px;
+  font-size: 18px;
   font-family: 'Khula', fantasy;
   float: left;
 }
@@ -48,6 +48,7 @@ h4{
   color: #548b83;
   text-align: center;
   font-family: 'Khula', fantasy;
+  font-size: 20px;
 }
 .genders{
   margin-left: 50px;
