@@ -6,10 +6,13 @@ body{
 h1{
   color: #ffffff;
 }
+h4{
+  float: right;
+}
 .parent{
   margin-top: 10px;
   margin-bottom: 0;
-  height: 670px;
+  height: 650px;
   padding: 0;
   background-repeat: no-repeat;
   background-size: cover;
@@ -40,10 +43,11 @@ h1{
   float: left;
 }
 .q-text{
-  color: #2b2c74;
+  color: #548b83;
 }
 .genders{
   margin-left: 50px;
+  color: #548b83;
 }
 .btn{
   margin-left: 50px;
@@ -54,14 +58,11 @@ h1{
 }
 
 #result{
-  float: left;
+  float: right;
   margin-top: 10px;
   color: #426e58;
   font-size: 28px;
 }
 .rounded-circle{
   margin-left: 15%;
-}
-.float{
-  float:right;
 }
