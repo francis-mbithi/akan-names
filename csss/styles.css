@@ -29,7 +29,7 @@ h1{
 .labels{
   font-family: monospace;
   font-weight: lighter;
-  font-size: 25px;
+  font-size: 20px;
   color: #53866c;
 }
 .p-text{
@@ -54,10 +54,14 @@ h1{
 }
 
 #result{
+  float: left;
   margin-top: 10px;
   color: #426e58;
   font-size: 28px;
 }
 .rounded-circle{
   margin-left: 15%;
+}
+.float{
+  float:right;
 }
