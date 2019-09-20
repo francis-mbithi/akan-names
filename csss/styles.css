@@ -1,14 +1,12 @@
 body{
-  background-color: #82c9ae;
+  background-color: #51a082;
   
 
 }
 h1{
   color: #ffffff;
 }
-h4{
-  float: right;
-}
+
 .parent{
   margin-top: 10px;
   margin-bottom: 0;
@@ -41,7 +39,7 @@ h4{
   padding: 10px;
   color: #548b82;
   font-size: 18px;
-  font-family: 'Khula', fantasy;
+  font-family: 'calibri', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   float: left;
 }
 .q-text{
