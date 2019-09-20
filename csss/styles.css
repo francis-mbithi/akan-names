@@ -39,6 +39,9 @@ h1{
   font-family: 'Khula', fantasy;
   float: left;
 }
+.q-text{
+  color: #2b2c74;
+}
 .genders{
   margin-left: 50px;
 }
@@ -51,7 +54,10 @@ h1{
 }
 
 #result{
-  margin-top: 30px;
+  margin-top: 10px;
   color: #426e58;
   font-size: 28px;
+}
+.rounded-circle{
+  margin-left: 15%;
 }
