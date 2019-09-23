@@ -21,4 +21,5 @@ aA web application that takes a user's birthday and calculates the day of the we
 - Navigate to portfolio
 - git init
 
-#LIcense and Copyright information
+# LIcense and Copyright information
+copyright @2019 Francis permission 
